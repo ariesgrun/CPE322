@@ -1,4 +1,11 @@
 # CPE322
+
+Instructor: [Dr. Kevin Lu](http://www.google.com/url?q=http%3A%2F%2Fweb.stevens.edu%2Ffacultyprofile%2F%3Fid%3D2081&sa=D&sntz=1&usg=AFQjCNErm5514Mzkr2ru0JOsxoIjOcP13g), Teaching Professor and Associate Chair for Undergraduate Studies, Electrical and Computer Engineering [(ECE)](https://www.google.com/url?q=https%3A%2F%2Fwww.stevens.edu%2Fschaefer-school-engineering-science%2Fdepartments%2Felectrical-computer-engineering&sa=D&sntz=1&usg=AFQjCNEUGv-4BS5k4YiC91pmCse3X7acBQ)
+
+## Course Description
+
+This course introduces students to critical engineering design topics such as needs assessment, problem formulation, modeling, patents, abstraction and synthesis, economic analysis, product liability, ergonomics, engineering ethics, hazards analysis, design for X, material selection, and manufacturing processes. Students learn that engineering is a service profession, dedicated to satisfying humanity's needs through responsible, methodical, and creative problem solving.
+
 ## Grading Procedures
 - Attendance: 15%
 - Outcomes: 75%
@@ -39,4 +46,24 @@ Fall 2023
 2023-12-18 Lab Due
 
 ## Course Materials
-work in progress
+Textbook: [Engineering by Design](https://sites.google.com/view/ece322) by Gerard Voland
+
+Labs: https://github.com/kevinwlu/iot
+
+Course Web Address: https://sites.google.com/view/ece322
+
+Projects: https://sites.google.com/view/ece322/projects
+
+Senior Design Projects: https://sites.google.com/view/ece423/projects
+
+Academic Calendar: https://www.stevens.edu/page-basic/academic-calendar
+
+Academic Catalog: https://www.stevens.edu/academics/academic-catalog
+
+Program Completion: https://www.stevens.edu/page-basic/program-completion
+
+ECE Student Advisement Modules: https://sit.instructure.com/courses/43625/modules 
+
+Workday Student Modules: https://sit.instructure.com/courses/35399 
+
+Stevens Library Database and Research Guide: https://library.stevens.edu/
