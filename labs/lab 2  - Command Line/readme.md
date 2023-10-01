@@ -1,4 +1,4 @@
-#Prompt
+# Prompt
 Go to the [IoT repository](https://github.com/kevinwlu/iot)
 - Study Lessons 1 and 2
 - Open a terminal and do the following:
