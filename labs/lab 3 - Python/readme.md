@@ -152,7 +152,7 @@ lbernal@aries:~/git/iot/iot/lesson3 $ python3 battery.py
 None
 ```
 
-#### python3 documentstats.py document.txt
+#### documentstats.py document.txt
 ```
 lbernal@aries:~/git/iot/iot/lesson3 $ python3 documentstats.py document.txt
 Word Count: 1343
