@@ -21,7 +21,7 @@ $ python3 documentstats.py document.txt
 
 ## Results
 This was completed on a Raspberry Pi
-WIP
+
 #### julian.py
 ```
 lbernal@aries:~/git/iot/iot/lesson3 $ python3 julian.py
