@@ -14,14 +14,14 @@ $ sudo apt update
 $ sudo apt install mosquitto mosquitto-clients
 $ mosquitto_sub -h localhost -v -t "\$SYS/#"
 ```
-
-1A 1B add screent shots here
+![1A](https://github.com/LMBernal/CPE322/blob/main/labs/lab%205%20-%20Paho-MQTT/images/1A.png?raw=true)
+![1B]([image_url](https://github.com/LMBernal/CPE322/blob/main/labs/lab%205%20-%20Paho-MQTT/images/1B.png?raw=true))
 ***
 ```
 $ service mosquitto status
 $ netstat -tln
 ```
-2A add screen shot here
+![2B](https://github.com/LMBernal/CPE322/blob/main/labs/lab%205%20-%20Paho-MQTT/images/2A.png?raw=true)
 ***
 Intall Paho and run code to subscribe on one terminal and publish on another
 ```
@@ -30,8 +30,7 @@ $ git clone https://github.com/eclipse/paho.mqtt.python.git
 $ cd ~/iot/lesson5
 $ python3 client.py
 ```
-
-3A
+![3A](https://github.com/LMBernal/CPE322/blob/main/labs/lab%205%20-%20Paho-MQTT/images/3A.png?raw=true)
 ***
 Terminal 1
 ```
@@ -41,7 +40,7 @@ Terminal 2
 ```
 $ python3 pub.py
 ```
-
+![5A](https://github.com/LMBernal/CPE322/blob/main/labs/lab%205%20-%20Paho-MQTT/images/5A.png?raw=true)
 
 
 
