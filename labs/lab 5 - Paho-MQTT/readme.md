@@ -15,7 +15,7 @@ $ sudo apt install mosquitto mosquitto-clients
 $ mosquitto_sub -h localhost -v -t "\$SYS/#"
 ```
 ![1A](https://github.com/LMBernal/CPE322/blob/main/labs/lab%205%20-%20Paho-MQTT/images/1A.png?raw=true)
-![1B]([image_url](https://github.com/LMBernal/CPE322/blob/main/labs/lab%205%20-%20Paho-MQTT/images/1B.png?raw=true))
+![1B](https://github.com/LMBernal/CPE322/blob/main/labs/lab%205%20-%20Paho-MQTT/images/1B.png?raw=true))
 ***
 ```
 $ service mosquitto status
