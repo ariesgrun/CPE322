@@ -34,3 +34,16 @@ $ gimp -a intrusiondetection.png
 ```
 
 # Results
+
+- Install and run pyang
+ ![image](https://github.com/LMBernal/CPE322/blob/main/labs/lab%209%20-YANG/images/image.png)
+ ![image1](https://github.com/LMBernal/CPE322/blob/main/labs/lab%209%20-YANG/images/image1.png)
+
+- Install PlantUML
+![image2](https://github.com/LMBernal/CPE322/blob/main/labs/lab%209%20-YANG/images/image2.png)
+
+- Install and run GIMP and Pinta to display a PNG file via VNC Viewer
+![image3](https://github.com/LMBernal/CPE322/blob/main/labs/lab%209%20-YANG/images/image3.png)
+![image4](https://github.com/LMBernal/CPE322/blob/main/labs/lab%209%20-YANG/images/image4.png)
+![image5](https://github.com/LMBernal/CPE322/blob/main/labs/lab%209%20-YANG/images/image5.png)
+![image6](https://github.com/LMBernal/CPE322/blob/main/labs/lab%209%20-YANG/images/image6.png)
